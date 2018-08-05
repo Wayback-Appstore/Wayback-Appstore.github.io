@@ -1,0 +1,83 @@
+
+{
+	"Launcher": {
+		"latest_major": "1",
+		"latest_minor": "1",
+		"latest_micro": "0",
+		"gui_url": "http://cdn.kaeru.world/TWLoader-update/DSiMenuPlusPlus Launcher.cia"
+	},
+	"NAND_side": {
+		"booter": {
+			"booter_not_major": "4",
+			"booter_not_minor": "3",
+			"booter_not_micro": "2",
+			"booter_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/DSiMenuPlusPlus.cia"
+		},
+		"gameBooter": {
+			"not_major": "5",
+			"not_minor": "0",
+			"not_micro": "0",
+			"nand_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/DSiMenuPlusPlus%20-%20Game%20booter.cia"
+		}
+	},
+	"DSiMenuPlusPlus": {
+		"main": {
+			"main_major": "5",
+			"main_minor": "3",
+			"main_micro": "1",
+			"main_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/main.srldr"
+		},
+		"dsimenu": {
+			"dsimenu_major": "5",
+			"dsimenu_minor": "3",
+			"dsimenu_micro": "1",
+			"dsimenu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/dsimenu.srldr"
+		},
+		"r4menu": {
+			"r4menu_major": "5",
+			"r4menu_minor": "3",
+			"r4menu_micro": "1",
+			"r4menu_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/r4theme.srldr"
+		},
+		"slot1launch": {
+			"slot1launch_major": "5",
+			"slot1launch_minor": "2",
+			"slot1launch_micro": "1",
+			"slot1launch_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/dsimenuplusplus/slot1launch.srldr"
+		}
+	},
+	"prebuilds": {
+		"GBARunner2": {
+			"GBARunner2_major": "4",
+			"GBARunner2_minor": "2",
+			"GBARunner2_micro": "0",
+			"GBARunner2_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/prebuilts/GBARunner2.nds"
+		},
+		"nesTwl": {
+			"nesTwl_major": "4",
+			"nesTwl_minor": "2",
+			"nesTwl_micro": "0",
+			"nesTwl_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/prebuilts/nesTwl.nds"
+		},
+		"GameYob": {
+			"GameYob_major": "4",
+			"GameYob_minor": "2",
+			"GameYob_micro": "0",
+			"GameYob_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/prebuilts/GameYob.nds"
+		}
+	},
+	"nds-bootstrap": {
+		"sdk1-4": {
+			"release_ver": "Release v0.10.2    ",
+			"nightly_ver": "Nightly 9d7ef2d    ",
+			"release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap.nds",
+			"nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nightly-bootstrap.nds"
+		},
+		"sdk5": {
+			"sdk5-release_ver": "Release v0.10.2    ",
+			"sdk5-nightly_ver": "Nightly 4c65e11    ",
+			"sdk5-release_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/release-bootstrap-sdk5.nds",
+			"sdk5-nightly_url": "http://cdn.kaeru.world/DSiMenuPlusPlus-update/nightly-bootstrap-sdk5.nds"
+		}
+	}
+}
